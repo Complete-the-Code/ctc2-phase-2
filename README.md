@@ -29,7 +29,7 @@ Additionally, the files used by the website can be found [here](https://github.c
 
 On May 26, 2021, some dipshit in the dbrand Discord server (@liatschulz) found the website https://completethecodetwo.cards by using a brain. We have confirmed that the site was created by dbrand using WHOIS records. dbrand has since confirmed that Phase I has been completed and that Phase II has now been started. You can view the message [here](https://discord.com/channels/520021794380447745/832309320934621234/847171349113471046) or see a picture [here](#proof-1)
 
-To view the things we did in phase I click [here](http://phase1.ctc2.cc/)
+To view the things we did in phase I click [here](http://phase1.completethecode.com/)
 
 We have a bunch of dipshits on Discord that have been trying to figure out what the password to the website is.
 
