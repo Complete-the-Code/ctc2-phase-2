@@ -17,11 +17,9 @@ Thanks to @Vcubed in the dbrand Discord they have set up a [Google Sheets](https
 
 The site only consists of a text box with a placeholder of `???`.
 
-The site accepts any text input, which it then sends that via a POST request to https://completethecodetwo.cards/pw. If the input if wrong it'll return a "Nope." (403), if the input is correct it won't return that (most likely a 200 or 3XX).
+The site accepts any text input, which it then sends that via a POST request to https://completethecodetwo.cards/pw. If the input if wrong it'll return a "Nope." (403), if the input is correct it will most likely return a 200 or 3XX.
 
 Our end goal is to find the input that won't return a 403.
-
-The website asks for a password which is then sent via a POST request to https://completethecodetwo.cards/pw
 
 Additionally, the files used by the website can be found [here](https://github.com/Complete-the-Code/ctc2-phase-2/tree/master/page-files/)
 
